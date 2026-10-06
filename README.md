@@ -1,4 +1,4 @@
-# Lei-Geral-de-Prote-o-de-Dados
+# Lei-Geral-de-Protecao-de-Dados
 https://notebook.google.com/notebook/6bf0dd3a-4b57-4a92-8a8b-09c7f2659834
 Lei Geral de Proteção de Dados Fundamentos Aplicabilidade: Foi criado para explicar e ajudar a entender a LGPD, como adaptá-la e implementá-la em uma empresa. Assumindo-se que o usuário seja leigo sobre o tema.
 As fontes primárias escolhidas foram: LGPD Lei Geral de Proteção de Dados comentada Viviane Nobrega Maldonado Renato Opice Blum.pdf; LGPD Lei Geral de Proteção de Dados – Literare Books.pdf; Lei Geral de Proteção de Dados Pessoais LGPD - Blaucher.pdf; Lei Geral de Proteção de Dados Pessoais para Concursos - Lei 13.709/18 - Prof. Herbert Almeida – YouTube (videoaula). A escolha dessas fontes iniciais baseou-se no critério de serem obras direcionadas e preparatórias para concursos públicos, feitas por professores da área de conhecimento. As demais fontes foram providas pelo recurso de busca DeepSearch, do próprio Notebook.
